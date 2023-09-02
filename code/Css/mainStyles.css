@@ -1,4 +1,28 @@
+/*Header*/
 body {
     background-color: wheat;
+    align-items: center;
     text-align: center;
+}
+
+
+.header {
+    border: 9px black solid;
+    font-size: 3rem;
+}
+
+.contactbutton {
+    border: 1px solid ;
+    background-color: aqua;
+    height: 4rem;
+    width: 18rem;
+    position: relative;
+    left: 35rem;
+}
+
+/*Slider */
+ 
+.imagesf {
+    border: 2px solid black;
+    display: flex;
 }
